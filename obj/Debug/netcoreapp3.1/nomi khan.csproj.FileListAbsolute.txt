@@ -1,0 +1,13 @@
+C:\Users\Numan khan\source\repos\nomi khan\nomi khan\bin\Debug\netcoreapp3.1\nomi khan.exe
+C:\Users\Numan khan\source\repos\nomi khan\nomi khan\bin\Debug\netcoreapp3.1\nomi khan.deps.json
+C:\Users\Numan khan\source\repos\nomi khan\nomi khan\bin\Debug\netcoreapp3.1\nomi khan.runtimeconfig.json
+C:\Users\Numan khan\source\repos\nomi khan\nomi khan\bin\Debug\netcoreapp3.1\nomi khan.runtimeconfig.dev.json
+C:\Users\Numan khan\source\repos\nomi khan\nomi khan\bin\Debug\netcoreapp3.1\nomi khan.dll
+C:\Users\Numan khan\source\repos\nomi khan\nomi khan\bin\Debug\netcoreapp3.1\nomi khan.pdb
+C:\Users\Numan khan\source\repos\nomi khan\nomi khan\obj\Debug\netcoreapp3.1\nomi khan.csprojAssemblyReference.cache
+C:\Users\Numan khan\source\repos\nomi khan\nomi khan\obj\Debug\netcoreapp3.1\nomi khan.AssemblyInfoInputs.cache
+C:\Users\Numan khan\source\repos\nomi khan\nomi khan\obj\Debug\netcoreapp3.1\nomi khan.AssemblyInfo.cs
+C:\Users\Numan khan\source\repos\nomi khan\nomi khan\obj\Debug\netcoreapp3.1\nomi khan.csproj.CoreCompileInputs.cache
+C:\Users\Numan khan\source\repos\nomi khan\nomi khan\obj\Debug\netcoreapp3.1\nomi khan.dll
+C:\Users\Numan khan\source\repos\nomi khan\nomi khan\obj\Debug\netcoreapp3.1\nomi khan.pdb
+C:\Users\Numan khan\source\repos\nomi khan\nomi khan\obj\Debug\netcoreapp3.1\nomi khan.genruntimeconfig.cache
